@@ -1,0 +1,2 @@
+# ocifortigate
+OCI-template
